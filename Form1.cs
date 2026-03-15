@@ -1,9 +1,9 @@
 using System;
 using System.Data;
 using System.Windows.Forms;
-using CrudApp.Data;
+using FinanceProject.Data;
 
-namespace CrudApp
+namespace FinanceProject
 {
     public partial class Form1 : Form
     {
