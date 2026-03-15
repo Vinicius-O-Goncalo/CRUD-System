@@ -1,4 +1,4 @@
-namespace CrudApp.Models
+namespace FinanceProject.Models
 {
     public class Client
     {
