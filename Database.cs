@@ -1,7 +1,7 @@
 using System.Data;
 using System.Data.SqlClient;
 
-namespace CrudApp.Data
+namespace FinanceProject.Data
 {
     public class Database
     {
